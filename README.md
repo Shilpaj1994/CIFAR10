@@ -203,5 +203,5 @@ Test set: Average loss: 0.4149, Accuracy: 8615/10000 (86.15%)
 ## Usage
 
 1. Install dependencies
-2. Run the training notebook `S9.ipynb`
+2. Run the training notebook `S8.ipynb`
 3. Use the trained model for predictions
